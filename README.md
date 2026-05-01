@@ -50,7 +50,6 @@ fuzzy-car-simulation-project/
 └── .gitignore
 
 
----
 
 ## 🔄 Working Flow
 1. Sensor data is collected  
