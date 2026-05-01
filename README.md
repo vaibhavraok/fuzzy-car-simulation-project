@@ -50,7 +50,7 @@ fuzzy-car-simulation-project/
 └── .gitignore
 
 
-
+---
 ## 🔄 Working Flow
 1. Sensor data is collected  
 2. Inputs are converted into fuzzy values  
