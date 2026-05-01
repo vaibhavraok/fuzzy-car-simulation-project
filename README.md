@@ -82,6 +82,24 @@ fuzzy-car-simulation-project/
 ```bash
 git clone https://github.com/vaibhavraok/fuzzy-car-simulation-project.git
 cd fuzzy-car-simulation-project
+```
+
+## 🛠️ Technologies Used
+- Python  
+- Pygame  
+- NumPy  
+- Fuzzy Logic  
+
+---
+
+### Install dependencies
+```bash
 pip install -r requirements.txt
 python main.py
+```
+### Run project
+```bash
+python main.py
+```
+
 
