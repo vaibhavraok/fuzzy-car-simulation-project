@@ -95,7 +95,6 @@ cd fuzzy-car-simulation-project
 ### Install dependencies
 ```bash
 pip install -r requirements.txt
-python main.py
 ```
 ### Run project
 ```bash
